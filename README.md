@@ -2,7 +2,7 @@
 Contains code, data, and plans for Flip and ReCom local search heuristics for IL, MO, and TN congressional district plan optimization
 
 ## Data
-The **IL_tracts_projected32616_MOD_SingleParts_Data_Plan**, **MO_Tracts_projected32615_Data_Plan**, and **TN_Tracts_projected32616_SingleParts_Data_Plan** folders contain the census tract shapefiles (with tract population, Democrat/Republican votes, and population broken down by race/ethnicity) for Illinois, Missouri, and Tennessee, respectively. Note that the data columns for these shapefiles are hardcoded into the local search algorithms.
+The **IL_tracts_projected32616_MOD_SingleParts_Data_Plan**, **MO_Tracts_projected32615_Data_Plan**, and **TN_Tracts_projected32616_SingleParts_Data_Plan** folders contain the census tract shapefiles (with tract population, Democrat/Republican votes, and population broken down by race/ethnicity) for Illinois, Missouri, and Tennessee, respectively. _Note that the data columns for these shapefiles are hardcoded into the local search algorithms._
 
 The **InitialPlans_IL_Tracts**, **InitialPlans_MO_Tracts**, and **InitialPlans_TN_Tracts** folders contain the initial congressional district plan assignment files for Illinois, Missouri, and Tennessee, respectively.
 
